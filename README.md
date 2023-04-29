@@ -13,10 +13,10 @@ https://replit.com/@tingirifistik/Enough
 <h2>Kurulum</h2>
 
 ```console16g
-git clone https://github.com/BUSETERMUX/-Enough-
-cd Enough
+git clone https://github.com/BUSETERMUX/-BUSE-
+cd BUSE
 pip3 install -r requirements.txt
-python3 enough.py
+python3 BUSE.py
 ```
 
 
