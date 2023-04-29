@@ -12,8 +12,8 @@ https://replit.com/@tingirifistik/Enough
 
 <h2>Kurulum</h2>
 
-```console
-git clone https://gitlab.com/tingirifistik/enough.git
+```console16g
+git clone https://github.com/BUSETERMUX/-Enough-
 cd Enough
 pip3 install -r requirements.txt
 python3 enough.py
